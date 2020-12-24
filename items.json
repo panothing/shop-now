@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Album 1",
-            "price": 1799,
+            "price": 101799,
             "imgName": "Album 1.png"
         },
         {
@@ -29,13 +29,13 @@
         {
             "id": 5,
             "name": "T-Shirt",
-            "price": 2999,
+            "price": 9999,
             "imgName": "Shirt.png"
         },
         {
             "id": 6,
             "name": "Coffee Cup",
-            "price": 699,
+            "price": 100,
             "imgName": "Cofee.png"
         }
     ]
